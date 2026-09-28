@@ -1,2 +1,2 @@
 # Aula-Electron
-app com Electron aulas
+App de aula de Electron !
